@@ -2,8 +2,7 @@
 🔭 I'm currently working on enhancing my skills in Golang, Linux, and Cloud Technologies.  <br> 💬 Ask me about web application security  <br> ⚡ Fun fact I'm also guitar player
 
 
-## 🌐 Socials:# 💫 About Me:
-🔭 I'm currently working on enhancing my skills in Golang, Linux, and Cloud Technologies.  <br> 💬 Ask me about web application security  <br> ⚡ Fun fact I'm also guitar player
+
 
 
 ## 🌐 Socials:
