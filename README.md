@@ -5,5 +5,5 @@
 ## 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white)  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=HajiaghaSadikhov&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=Hajiagha-Sadikhov&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajiagha-Sadikhov&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal&cache_seconds=1800)
