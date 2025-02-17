@@ -19,8 +19,8 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) 
 ## Github Stats
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hajiagha-Sadikhov&theme=blue-green" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajiagha-Sadikhov&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal&cache_seconds=1800" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hajiagha-Sadikhov&theme=blue-green" style="max-width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajiagha-Sadikhov&layout=compact&theme=dark&card_width=1000&hide_border=true&hide=pascal&cache_seconds=1800" style="max-width: 48%; height: auto;" />
 </div>
 
 
