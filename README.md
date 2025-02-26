@@ -17,10 +17,11 @@
 
 ### OS Distributions:
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-## Github Stats
+## My Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&username=Hajiagha-Sadikhov" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=true&username=Hajiagha-Sadikhov" height="150" alt="languages graph" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3268847" style='border:none;'></iframe>
 </div>
 
 
